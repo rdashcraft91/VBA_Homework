@@ -1,2 +1,2 @@
-# VBA_Homework
-This is my VBA homework assignment.
+# VBA Homework
+This folder contains my VBA homework, analyzing stock market data and trends.
